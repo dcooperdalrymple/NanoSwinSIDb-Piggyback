@@ -623,7 +623,7 @@ F 3 "" H 4150 2300 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L 65xx:6581 U3
+L Nano-SwinSIDb-rescue:6581-65xx U3
 U 1 1 605850ED
 P 2700 5850
 F 0 "U3" H 2900 4500 50  0000 C CNN
@@ -769,7 +769,7 @@ CAP1B
 Text Label 2600 3250 2    50   ~ 0
 CAP1A
 $Comp
-L 65xx:6581 U2
+L Nano-SwinSIDb-rescue:6581-65xx U2
 U 1 1 605EBB1B
 P 1800 2650
 F 0 "U2" H 2000 1300 50  0000 C CNN

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Nano-SwinSIDb-rescue)(type Legacy)(uri "${KIPRJMOD}/Nano SwinSIDb-rescue.lib")(options "")(descr ""))
+)
