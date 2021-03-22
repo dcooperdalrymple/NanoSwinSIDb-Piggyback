@@ -22,7 +22,7 @@ A standard 6-Pin AVR ICSP header is provided on this board layout unlike the ori
 Use the command `make flash` within the firmware directory to flash the copy of the SwinSID firmware with the ['Lazy' fix by Code Killer](http://www.forum64.de/index.php?thread/56605-nano-swinsid-upgrades-paddles-etc/&pageNo=2). Follow this by `make fuse` to ensure that the chip is configured correctly. The makefile utilizes avrdude with an Arduino ISP programmer on port `/dev/ttyACM0` _(linux environment)_. If this configuration doesn't work for you, either modify the Makefile or use your own flash programming environment to flash the provided firmware hex file or any other SwinSID compatible firmware.
 
 ## Additional Information
-More information about building and programming your own board can be found at [tolaemon.com/nss](http://www.tolaemon.com/nss/). Most of the same principles should apply just with a few different parts.
+More information about building and programming your own board can be found at [tolaemon.com/nss](http://www.tolaemon.com/nss/). Most of the same principles should apply just with a few different parts. If you'd like to purchase one of these pre-built, I may have some available on my website, [dcdalrymple.com/NanoSwinSIDb-Piggyback/](https://dcdalrymple.com/NanoSwinSIDb-Piggyback/).
 
 ## Resources
 - [SwinSID Analog Controller Hack](https://ilesj.wordpress.com/2014/07/24/swinsid-analog-controller-hack/)
