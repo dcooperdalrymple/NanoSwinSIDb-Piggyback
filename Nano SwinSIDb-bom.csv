@@ -1,0 +1,28 @@
+Source,/home/ogrecooper/repos/NanoSwinSIDb-Piggyback/Nano SwinSIDb.sch
+Kicad Rev,Eeschema 5.1.9+dfsg1-1
+Generated Date,Thu 04 Mar 2021 03:28:03 PM CST
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+U1,ATmega88PA-AU,MCU_Microchip_ATmega,ATmega88PA-AU
+JP1,ModeSelect,Jumper,SolderJumper_2_Bridged
+D1,Yellow,Device,LED
+J5,6PinConnector,Connector,Conn_01x06_Female
+C1,100nF,Device,CP
+X1,ECS-3225MV,Oscillator,ECS-2520MV-xxx-xx
+R6,330,Device,R_Small
+TP1,TestPoint,Connector,TestPoint
+TP2,TestPoint,Connector,TestPoint
+TP3,TestPoint,Connector,TestPoint
+R1,1k,Device,R_Small
+R2,240k,Device,R_Small
+R4,2.2k,Device,R_Small
+R5,4.7k,Device,R_Small
+R3,1k,Device,R_Small
+JP2,OutputVoltage,Jumper,SolderJumper_2_Bridged
+U3,6581 Socket,Nano-SwinSIDb-rescue,6581-65xx
+U2,6581 Pins,Nano-SwinSIDb-rescue,6581-65xx
