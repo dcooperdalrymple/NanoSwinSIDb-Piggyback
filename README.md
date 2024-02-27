@@ -1,5 +1,8 @@
 # NanoSwinSIDb-Piggyback
+
 Have a faulty 6581/8580 SID chip and need a replacement? The Nano SwinSIDb is a great (though I will admit, not best) choice, but it has one fatal flaw: lack of paddle support. Using this revision on the original Nano SwinSIDb design, you can "piggyback" your original SID chip with a faulty audio circuit and use some of it's secondary functions to add back in support for reading analog paddle inputs, external audio input, and random number generator while synthesizing music using the tried-and-true Nano SwinSIDb circuit.
+
+<a href="https://www.tindie.com/products/relic/nanoswinsidb-piggyback/?ref=offsite_badges&utm_source=sellers_dcdalrymple&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="200" height="55"></a>
 
 ![Group of Nano SwinSIDb Piggybacks](/images/group.jpg)
 
